@@ -1,0 +1,25 @@
+body {
+    color:darkmagenta;
+    background:burlywood;
+margin: 0px;
+font-size: 27px;
+font-family: "Nanum Myeongjo", serif;
+
+
+}
+
+header {
+
+   border-bottom: solid 4px rgb(10, 25, 80);
+   padding: 20px;
+   font-size: 60px;
+
+}
+
+section { 
+    background: rgb(180, 158, 29);
+   margin: 100px;
+ bottom: 20px;
+justify-content: center;
+display: flexbox
+}
